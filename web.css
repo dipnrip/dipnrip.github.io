@@ -4,7 +4,7 @@
 .dark-grey,.hover-dark-grey:hover,.dark-gray,.hover-dark-gray:hover{color:#fff!important;background-color:#3ea2fa!important}
 .brown,.hover-brown:hover{color:#fff!important;background-color:#795548!important}
 .scrollable {
-    width: 780px;
+    height: : 780px;
     overflow: auto; 
 }
 .block{display:block;width:100%}
