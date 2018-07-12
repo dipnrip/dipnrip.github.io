@@ -1,15 +1,12 @@
-h1.a {
-	font-family: Courier;
-	color: black;
-}
-h1.b {
-	font-family: Courier;
-	color: while;
-}
-.content{max-width:980px;margin:auto}
-.dark-grey,.hover-dark-grey:hover,.dark-gray,.hover-dark-gray:hover{color:#fff!important;background-color:#616161!important}
-.brown,.hover-brown:hover{color:#fff!important;background-color:#795548!important}
 
+.custom-font{font-family: Courier;}
+.content{max-width:980px;margin:auto}
+.dark-grey,.hover-dark-grey:hover,.dark-gray,.hover-dark-gray:hover{color:#fff!important;background-color:#3ea2fa!important}
+.brown,.hover-brown:hover{color:#fff!important;background-color:#795548!important}
+.scrollable {
+    width: 780px;
+    overflow: auto; 
+}
 .block{display:block;width:100%}
 .button:hover{color:#000!important;background-color:#ccc!important}
 .xxlarge{font-size:36px!important}
